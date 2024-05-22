@@ -14,4 +14,4 @@
 
 ### ⚙️ Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,nextjs,angular,nodejs,express,astro,html,pug,materialui,bootstrap,styledcomponents,css,sass,emotion,tailwind,figma,mysql,postgres,mongodb,prisma,sequelize,git,github,npm,pnpm,yarn,vite)](https://github.com/SebastianLl28)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,nextjs,angular,nodejs,express,astro,html,pug,materialui,bootstrap,styledcomponents,css,sass,emotion,tailwind,figma,mysql,postgres,mongodb,prisma,sequelize,redux,git,github,npm,pnpm,yarn,vite)](https://github.com/SebastianLl28)
