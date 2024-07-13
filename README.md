@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sebastian Llamuca</h1>
 
-<p align="center">🖥️ Frontend Developer | Looking to collaborate on anything that I can help with.</p>
+<p align="center">🖥️ Full Stack Developer | Looking to collaborate on anything that I can help with.</p>
 
 ### About Me:
 
